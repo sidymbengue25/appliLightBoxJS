@@ -1,0 +1,23 @@
+#overlay{
+  display: none;
+  position: absolute;
+  top: 0;left: 0;
+  width: 100%;height: 100%;
+  text-align: center;/*pour centrer l'image*/
+  background-color: rgba(0,0,0,0.6);
+}
+p img{
+  width: 200px;
+  height: 200px;
+  opacity: 0.4;
+}
+#overlay img{
+  margin-top: 100px;
+  width: 800px;
+  height: 500px;
+}
+span{margin-top: 150px;font-size: 25px;color: white}
+p{
+  margin-top: 150px;text-align: center;
+}
+h1{text-align: center;}
